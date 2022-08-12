@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">push notifications template</string>
+    <string name="default_notification_channel_id">com.firebase.pushnotifications.abanoubbarayo</string>
+</resources>
